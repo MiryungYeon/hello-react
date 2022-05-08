@@ -1,11 +1,12 @@
 import { Component } from 'react';
-import MyName from './MyName'
+import React from "react";
+import Counter from './Counter'
 
 class App extends Component {
   render() {
     return (
-      <MyName name="리액트" />
-    );
+      <Counter />
+    )
   }
 }
 
