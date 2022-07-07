@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * this 키워드
 * Arrow function
 * var let const 변수와 전역객체 window
+* State
 
 ### 참고 URL
 * https://codingapple.com/course/javascript-es6/
